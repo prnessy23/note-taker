@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "title": "Shopping",
+    "text": "Pick up bread, milk and cheese\nGet chicken and rice\nGet dessert",
+    "id": "0"
+  },
+  {
+    "title": "Travel",
+    "text": "Book flight\nBook hotel\nReserve rental car\nMake reservations at Capo",
+    "id": "1"
+  },
+  {
+    "title": "Get dry cleaning",
+    "text": "Get shirts in boxes not hangar\nPick up alterations\nDon't forget to ask about stained jacket",
+    "id": "2"
+  }
+]
